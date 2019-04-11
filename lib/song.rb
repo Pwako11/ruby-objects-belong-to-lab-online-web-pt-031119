@@ -5,5 +5,6 @@ class Song
     @tittle = tittle 
     @artist = artist
   end 
-  
-end 
+end
+
+Beyonce = Song.new("")
